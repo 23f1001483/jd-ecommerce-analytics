@@ -47,3 +47,16 @@ The project utilizes secondary transaction-level data released by JD.com for the
 
 ## 💡 Business Recommendations
 
+### Operational Action Plan
+
+| Focus Area | Immediate Action | Primary KPI | Expected Benefit |
+| :--- | :--- | :--- | :--- |
+| **1. Fulfillment** | 30-Day local transit audit in Regions 9 & 4 | On-Time Delivery % & Transit Hours | Locates and isolates controllable delay |
+| **2. Promotions** | Run matched-SKU AB test (Direct vs. Quantity) | Incremental Contribution Margin | Tests promotional efficiency & spend waste |
+| **3. Loyalty** | Audit unit economics before Tier 5 expansion | Conversion, Renewal, & Customer ROI | Tests viability of targeted growth |
+
+### Core Strategic Takeaways:
+1. **Fix Local Deliveries First:** Prioritize auditing station hand-offs and post-dispatch transit in Regions 9 and 4. Elevating these to the regional benchmark can turn roughly 4,300 late orders into on-time deliveries monthly.
+2. **Re-evaluate Direct Discounts:** Run a randomized AB test shifting promotional budget away from flat Direct Discounts toward volume-linked alternatives, measuring outcomes against *contribution margins* instead of gross volumes alone.
+3. **Cautious PLUS Expansion:** Protect the core base in Tier 1 cities. Do not expand acquisition to Tier 3–5 cities based on order counts alone until subscription margins, benefit costs, and retention metrics are securely quantified.
+
